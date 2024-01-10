@@ -5,9 +5,9 @@
 ### Currently Using
 
 * [Figma](https://www.figma.com/)
-* [Sip](https://sipapp.io/) Modern color picker for Mac; collect, organize and edit colors.
+* [Sip](https://sipapp.io/) - Modern color picker for Mac; collect, organize and edit colors.
 * [Visual Studio Code](https://code.visualstudio.com/)
-* [Obsidian](https://obsidian.md/) Powerful knowledge base in a local folder with Markdown files, for [building a second brain](https://fortelabs.com/blog/basboverview/). Check out a [snapshot of my Obsidian](/img/Obsidian%20Graph%20(2024-01).gif).
+* [Obsidian](https://obsidian.md/) - knowledge base in a local folder with Markdown files, for [building a second brain](https://fortelabs.com/blog/basboverview/). Check out a [snapshot of my personal Obsidian vault](/img/Obsidian%20Graph%20(2024-01).gif).
 * Looker Studio for data visualization
 
 ### My Desk
@@ -16,7 +16,7 @@
 * VIVO Adjustable Standing Desk
 * Steelcase Think Chair
 * [LEUCHTTURM1917](https://www.leuchtturm1917.us/notebooks/all-formats/medium-a5/) physical notebook - A5 hardcover. Always choose blank pages.
-* [Hi-uni Wooden Pencil](https://uniballco.com/products/hi-uni-wooden-pencil-hb)  in hard black (HB) - my favorite wooden pencil. A luxurious lacquered pencil by Mitsubishi Pencil (三菱鉛筆) that I love using for sketching, writing, crossword puzzles, and more.
+* [Hi-uni Wooden Pencil](https://uniballco.com/products/hi-uni-wooden-pencil-hb)  in hard black (HB) - my favorite wooden pencil. A luxurious lacquered pencil by Mitsubishi Pencil (三菱鉛筆) that I love using for sketching and writing.
 
 ### Other Tools I've Used
 * Sketch
