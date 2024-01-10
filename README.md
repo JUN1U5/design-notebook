@@ -15,8 +15,8 @@
 * Dell E2414H 24-inch LED second monitor with VIVO articulating arm mount
 * VIVO Adjustable Standing Desk
 * Steelcase Think Chair
-* [LEUCHTTURM1917](https://www.leuchtturm1917.us/notebooks/all-formats/medium-a5/) physical notebook - A5 hardcover. Always choose blank pages.
-* [Hi-uni Wooden Pencil](https://uniballco.com/products/hi-uni-wooden-pencil-hb)  in hard black (HB) - my favorite wooden pencil. A luxurious lacquered pencil by Mitsubishi Pencil (三菱鉛筆) that I love using for sketching and writing.
+* [LEUCHTTURM1917](https://www.leuchtturm1917.us/notebooks/all-formats/medium-a5/) physical notebook (A5 hardcover) - I always choose blank pages.
+* [Hi-uni Wooden Pencil](https://uniballco.com/products/hi-uni-wooden-pencil-hb) (in hard black) - a luxurious lacquered pencil by Mitsubishi Pencil (三菱鉛筆) that I love using for sketching and writing.
 
 ### Other Tools I've Used
 * Sketch
