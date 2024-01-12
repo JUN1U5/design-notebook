@@ -13,6 +13,7 @@
 ### My Desk
 * MacBook Pro
 * Dell E2414H 24-inch LED second monitor with VIVO articulating arm mount
+* Royal Kludge RK61 60% Wireless Mechanical Keyboard
 * VIVO Adjustable Standing Desk
 * Steelcase Think Chair
 * [LEUCHTTURM1917](https://www.leuchtturm1917.us/notebooks/all-formats/medium-a5/) physical notebook (A5 hardcover) - I always choose blank pages.
@@ -26,6 +27,9 @@
 * Sublime Text
 * [Chart.js](https://www.chartjs.org/)
 * [D3](https://d3js.org/)
+* GIMP
+* Orange3 - open-source data visualization, NLP, and data mining
+* Davinci Resolve - postproduction video editing freeware
 
 ### Other Apps I May Have Open
 * Firefox
